@@ -26,6 +26,7 @@ function Welcome( {pic,name, Mobile} ){
   <h1>Hello {name}</h1>
   <h1>Mobile No is {Mobile}</h1>
   <img  className="image" src={pic}/>
+  <h1>Your good to go</h1>
 </div>
   )
 }
